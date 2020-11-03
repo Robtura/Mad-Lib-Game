@@ -1,6 +1,6 @@
 # Mad-Lib-Game
 
-Simple fun game.
+Simple, fun game.
 
 # How to run an app
 
